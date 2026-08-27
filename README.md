@@ -1,39 +1,82 @@
-# 🏎️ Lights Out and Away We Go! 
+<div align="center">
 
-*"Blimey! Another visitor to the profile!"* 
+# GEORGE RUSSELL `63`
 
-Welcome to my GitHub garage! I'm Lorenz Jouebren B. Labadan (aka @Kurljan), a 2nd-year BSIT student at BukSU operating out of Malaybalay. Much like George Russell putting his car on the front row on a Saturday, I'm all about precision, performance, and pushing code to the absolute limit. 
+### MERCEDES-AMG PETRONAS F1 TEAM
 
-Whether it's building full-stack web applications, routing network data, or designing top-down 2D horror games, I'm always looking for that extra tenth of a second in optimization.
+**Precision under pressure.**  
+The British driver from King's Lynn, chasing tenths in the Silver Arrow.
 
----
+[![Formula 1](https://img.shields.io/badge/FORMULA_1-000000?style=for-the-badge&logo=formula1&logoColor=white)](https://www.formula1.com/)
+[![Mercedes-AMG Petronas](https://img.shields.io/badge/MERCEDES--AMG_PETRONAS-00A19C?style=for-the-badge&logo=mercedes&logoColor=white)](https://www.mercedesamgf1.com/)
+[![Driver number 63](https://img.shields.io/badge/DRIVER_NUMBER-63-E5E5E5?style=for-the-badge&labelColor=111111)](https://www.georgerussell63.com/)
 
-### 🚦 The Driver (About Me)
-*   **Current Chassis:** 2nd-year Bachelor of Science in Information Technology (BSIT).
-*   **Track Focus:** 2D Game Development, Full-Stack Web Dev, and System Networking. 
-*   **Telemetry & Setup:** Currently navigating the twists and turns of Cisco NetAcad and CCNA curriculum. 
-*   **Pit Stop Hobbies:** Modding Terraria, grinding Call of Duty: Mobile, and analyzing network performance speeds.
-
----
-
-### 🛠️ The Garage (Tech Stack)
-*   **Engines (Languages):** Java, PHP, JavaScript, C
-*   **Aero Package (Frameworks/Tools):** LibGDX, Bootstrap, Tiled, Aseprite
-*   **Data Telemetry (Databases):** MySQL
+</div>
 
 ---
 
-### 🏁 Current Grand Prix (Highlighted Projects)
+<div align="center">
 
-*   🏎️ **[Escape](https://github.com/Kurljan/Escape):** A 2D top-down horror game built with Java for OOP and Data Structures. Features custom sprite animations and map integration to bring the *True Face of Death* to life.
-*   🏎️ **[NetGame](https://github.com/Kurljan/NetGame):** An interactive JavaScript NetAcad game designed for people with ADHD. Built to make learning networking concepts highly engaging (because static modules are like driving under a safety car).
-*   🏎️ **[Module-Game](https://github.com/Kurljan/Module-Game):** A full-stack PHP project.
-*   🏎️ **[PortfolioWebsite](https://github.com/Kurljan/PortfolioWebsite):** Crafting my digital presence on the grid.
+| **THE DRIVER** | **THE MACHINE** |
+|:---:|:---:|
+| [![George Russell](https://commons.wikimedia.org/wiki/Special:FilePath/2025%20Japan%20GP%20-%20Mercedes%20-%20George%20Russell%20-%20FP2.jpg?width=900)](https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Mercedes_-_George_Russell_-_FP2.jpg) | [![Mercedes W17](https://commons.wikimedia.org/wiki/Special:FilePath/2026%20Chinese%20GP%20-%20Mercedes%20-%20George%20Russell%20-%20Qualifying.jpg?width=900)](https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Mercedes_-_George_Russell_-_Qualifying.jpg) |
+| *George Russell at the 2025 Japanese Grand Prix* | *Russell driving the Mercedes W17* |
+
+</div>
+
+## THE PROFILE
+
+> **“Mr Saturday”** became a nickname at Williams. At Mercedes, Saturday pace is only the opening move.
+
+| | |
+|---|---|
+| **Full name** | George William Russell |
+| **Nationality** | British 🇬🇧 |
+| **Born** | 15 February 1998 · King's Lynn, Norfolk |
+| **Team** | Mercedes-AMG Petronas F1 Team |
+| **Car number** | **63** |
+| **F1 debut** | 2019 Australian Grand Prix |
+| **First win** | 2022 São Paulo Grand Prix |
+
+## CAREER SNAPSHOT
+
+```text
+2014   BRDC Formula 4 champion
+2017   GP3 champion
+2018   FIA Formula 2 champion
+2019   Formula 1 debut with Williams
+2020   Mercedes stand-in at the Sakhir Grand Prix
+2021   First F1 podium at Spa-Francorchamps
+2022   Mercedes race winner
+2024   Wins in Austria and Las Vegas
+2025   Four wins, nine podiums, fourth in the championship
+2026   Mercedes title contender
+```
+
+## WHY `63`?
+
+The number began with a kart his brother rented. It stuck.  
+Now it is the identifier on the nose, the helmet, and the driver who never seems satisfied with the lap before it.
+
+<div align="center">
+
+### POLE POSITION MINDSET
+
+**FAST IN QUALIFYING** &nbsp; • &nbsp; **CLEAN IN THE FIGHT** &nbsp; • &nbsp; **HUNGRY ON SUNDAY**
+
+[![George Russell](https://img.shields.io/badge/Follow_George-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GeorgeRussell63)
+[![Official site](https://img.shields.io/badge/Official_site-00A19C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.georgerussell63.com/)
+
+</div>
 
 ---
 
-### 📻 Team Radio (Let's Connect)
-Looking to collaborate on a game jam, talk subnetting and IPv6, or just debate the weekend's race pace? 
-*   **Box, Box, Box:** Drop an issue in one of my repos or reach out to collaborate!
+<div align="center">
 
-*"Consistency is key, whether you're hitting every apex or compiling without errors."*
+*Built for speed. Driven by detail.*
+
+</div>
+
+### Image credits
+
+Images are linked to their Wikimedia Commons source pages. Please review the individual licensing details before redistributing them. This README is an unofficial fan-made page and is not affiliated with George Russell, Mercedes-AMG Petronas F1 Team, or Formula 1.
