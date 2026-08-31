@@ -1,29 +1,45 @@
+﻿<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  KERL JAN — README  ·  Mercedes F1  ·  George Russell Edition  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-  <img src="banner.jpg" alt="Kerl Jan — Developer" width="100%" />
+<table width="100%" bgcolor="#050A0E" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="100%" bgcolor="#050A0E">
+<img src="Untitled design.svg" alt="Kerl Jan" width="100%" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
-
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
+<table width="100%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" bgcolor="#0D1117">
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00A19C)](https://github.com/kurljan)
 [![Bukidnon State University](https://img.shields.io/badge/BUKSU-Student-00A19C?style=for-the-badge&logoColor=white)](https://buksu.edu.ph)
 [![Location](https://img.shields.io/badge/📍_Malaybalay_City-Philippines-111111?style=for-the-badge)](https://maps.google.com/?q=Malaybalay+City,+Philippines)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  QUOTE BLOCK  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  "I mean it's ridiculous. The guys can just cut the      ║
-║   grass and keep position. No penalty, no nothing."      ║
-║                                        — Russell Radio   ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  "I mean it's ridiculous. The guys can just cut the grass        ║
+║   and keep position. No penalty, no nothing."                    ║
+║                                              — Russell Radio     ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 *Me when someone ships code without testing it.*
@@ -32,11 +48,29 @@
 
 ---
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 1  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Dark background, asymmetric 60/40 split, staggered heights   -->
+<table width="100%" bgcolor="#050A0E" border="0" cellspacing="4" cellpadding="0">
+<tr>
+<td align="center" valign="bottom" width="60%" bgcolor="#050A0E">
+  <img src="Untitled design (1).svg" alt="Design 1" width="98%" />
+</td>
+<td align="center" valign="top" width="40%" bgcolor="#050A0E">
+  <img src="Untitled design (2).svg" alt="Design 2" width="96%" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  QUALIFYING LAP  ▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🚦 QUALIFYING LAP — Who Am I?
 
 > A developer from **Malaybalay City, Philippines**, studying at **Bukidnon State University**. I build games, simulations, and push AI to its limits. Currently in the early laps — learning fast, iterating faster.
 
 <div align="center">
+<table width="80%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="8">
+<tr><td bgcolor="#0D1117">
 
 | | |
 |:---|:---|
@@ -47,10 +81,26 @@
 | 🧠 &nbsp; **Driven by** | Curiosity, caffeine, and deadlines |
 | 🏁 &nbsp; **Status** | Full throttle |
 
+</td></tr>
+</table>
 </div>
 
 ---
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 2 — Single wide accent  ▓▓▓▓▓▓▓▓▓ -->
+<table width="100%" bgcolor="#050A0E" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" width="10%" bgcolor="#050A0E">&nbsp;</td>
+<td align="center" width="80%" bgcolor="#050A0E">
+  <img src="Untitled design (3).svg" alt="Design Accent" width="100%" />
+</td>
+<td align="right" width="10%" bgcolor="#050A0E">&nbsp;</td>
+</tr>
+</table>
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🛠️ THE MACHINE — Tech Stack
 
 <div align="center">
@@ -65,6 +115,25 @@
 
 ---
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 3 — Triptych staggered  ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Large center tile flanked by two offset verticals              -->
+<table width="100%" bgcolor="#050A0E" border="0" cellspacing="3" cellpadding="0">
+<tr>
+<td align="center" valign="top" width="28%" bgcolor="#050A0E">
+  <img src="Untitled design (4).svg" alt="Design 4" width="98%" />
+</td>
+<td align="center" valign="middle" width="44%" bgcolor="#050A0E">
+  <img src="Untitled design.svg" alt="Design Main" width="98%" />
+</td>
+<td align="center" valign="bottom" width="28%" bgcolor="#050A0E">
+  <img src="Untitled design (5).svg" alt="Design 5" width="98%" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  PROJECTS PIT STOP  ▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🏎️ PROJECTS PIT STOP
 
 <br>
@@ -117,6 +186,7 @@
 
 ---
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  TELEMETRY  ▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 📊 TELEMETRY — GitHub Stats
 
 <div align="center">
@@ -128,19 +198,31 @@
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=dark&background=0D1117&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&border=00A19C&border_radius=8" alt="GitHub Streak" />
-
 </div>
 
 ---
 
-<div align="center">
-
-### POLE POSITION MINDSET
-
-**FAST IN DEVELOPMENT** &nbsp;•&nbsp; **CLEAN IN THE REPO** &nbsp;•&nbsp; **HUNGRY FOR DEPLOYMENT**
-
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER COLLAGE — Dark canvas, 5-tile mosaic  ▓▓▓ -->
+<table width="100%" bgcolor="#050A0E" border="0" cellspacing="3" cellpadding="0">
+<tr>
+<!-- Row 1: three tiles -->
+<td align="center" valign="bottom" width="38%" bgcolor="#050A0E">
+  <img src="Untitled design (1).svg" alt="D1" width="100%" />
+</td>
+<td align="center" valign="top" width="24%" bgcolor="#050A0E">
+  <img src="Untitled design (3).svg" alt="D3" width="100%" />
+</td>
+<td align="center" valign="bottom" width="38%" bgcolor="#050A0E">
+  <img src="Untitled design (2).svg" alt="D2" width="100%" />
+</td>
+</tr>
+<tr>
+<!-- Row 2: two tiles + center content -->
+<td align="center" valign="top" width="28%" bgcolor="#050A0E">
+  <img src="Untitled design (5).svg" alt="D5" width="100%" />
+</td>
+<td align="center" valign="middle" width="44%" bgcolor="#050A0E">
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
@@ -148,9 +230,26 @@
 
 <br>
 
-<img src="9a45df4d-9ed1-4726-9521-d25ca77e5c78.jpg" alt="Footer" width="60%" />
+<img src="9a45df4d-9ed1-4726-9521-d25ca77e5c78.jpg" alt="Footer" width="90%" />
 
-<br><br>
+<br>
+
+</td>
+<td align="center" valign="top" width="28%" bgcolor="#050A0E">
+  <img src="Untitled design (4).svg" alt="D4" width="100%" />
+</td>
+</tr>
+</table>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  CLOSING STATEMENT  ▓▓▓▓▓▓▓▓▓▓▓ -->
+<div align="center">
+<table width="100%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td align="center" bgcolor="#0D1117">
+
+### POLE POSITION MINDSET
+
+**FAST IN DEVELOPMENT** &nbsp;•&nbsp; **CLEAN IN THE REPO** &nbsp;•&nbsp; **HUNGRY FOR DEPLOYMENT**
 
 *Built for speed. Driven by detail.*
 
@@ -158,5 +257,7 @@
 
 *Kerl Jan · Malaybalay City, Philippines · Bukidnon State University*
 
+</td>
+</tr>
+</table>
 </div>
-
