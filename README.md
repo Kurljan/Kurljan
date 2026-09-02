@@ -1,12 +1,12 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  KERL JAN — README  ·  Mercedes F1  ·  George Russell Edition  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<table width="100%" bgcolor="#050A0E" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="100%" bgcolor="#050A0E">
+<td align="center" width="100%" bgcolor="#0A0F1E">
 <img src="Untitled design.svg" alt="Kerl Jan" width="100%" />
 </td>
 </tr>
@@ -15,9 +15,9 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<table width="100%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" bgcolor="#0D1B2A" border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td align="center" bgcolor="#0D1117">
+<td align="center" bgcolor="#0D1B2A">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00A19C)](https://github.com/kurljan)
@@ -48,15 +48,22 @@
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 1  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Dark background, asymmetric 60/40 split, staggered heights   -->
-<table width="100%" bgcolor="#050A0E" border="0" cellspacing="4" cellpadding="0">
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC COLLAGE ROW 1 — Big left + tall right stack  ▓▓▓▓▓▓▓▓ -->
+<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
 <tr>
-<td align="center" valign="bottom" width="60%" bgcolor="#050A0E">
+<!-- Large dominant tile -->
+<td align="center" valign="middle" width="62%" bgcolor="#0A0F1E" rowspan="2">
+  <img src="Untitled design.svg" alt="Design Main" width="99%" />
+</td>
+<!-- Top-right: narrow tall tile -->
+<td align="center" valign="bottom" width="38%" bgcolor="#0A0F1E">
   <img src="Untitled design (1).svg" alt="Design 1" width="98%" />
 </td>
-<td align="center" valign="top" width="40%" bgcolor="#050A0E">
-  <img src="Untitled design (2).svg" alt="Design 2" width="96%" />
+</tr>
+<tr>
+<!-- Bottom-right: offset smaller tile -->
+<td align="center" valign="top" width="38%" bgcolor="#0A0F1E">
+  <img src="Untitled design (2).svg" alt="Design 2" width="90%" />
 </td>
 </tr>
 </table>
@@ -69,8 +76,8 @@
 > A developer from **Malaybalay City, Philippines**, studying at **Bukidnon State University**. I build games, simulations, and push AI to its limits. Currently in the early laps — learning fast, iterating faster.
 
 <div align="center">
-<table width="80%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="8">
-<tr><td bgcolor="#0D1117">
+<table width="80%" bgcolor="#0D1B2A" border="0" cellspacing="0" cellpadding="8">
+<tr><td bgcolor="#0D1B2A">
 
 | | |
 |:---|:---|
@@ -87,14 +94,21 @@
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 2 — Single wide accent  ▓▓▓▓▓▓▓▓▓ -->
-<table width="100%" bgcolor="#050A0E" border="0" cellspacing="0" cellpadding="0">
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC ROW 2 — Trio with staggered heights  ▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
 <tr>
-<td align="left" width="10%" bgcolor="#050A0E">&nbsp;</td>
-<td align="center" width="80%" bgcolor="#050A0E">
-  <img src="Untitled design (3).svg" alt="Design Accent" width="100%" />
+<!-- Narrow tall left -->
+<td align="center" valign="top" width="22%" bgcolor="#0A0F1E">
+  <img src="Untitled design (4).svg" alt="Design 4" width="97%" />
 </td>
-<td align="right" width="10%" bgcolor="#050A0E">&nbsp;</td>
+<!-- Wide center — slightly lower (offset via padding) -->
+<td align="center" valign="middle" width="52%" bgcolor="#0A0F1E" style="padding-top:24px;">
+  <img src="Untitled design (3).svg" alt="Design Accent" width="99%" />
+</td>
+<!-- Narrow right — pushed down further -->
+<td align="center" valign="bottom" width="26%" bgcolor="#0A0F1E">
+  <img src="Untitled design (5).svg" alt="Design 5" width="96%" />
+</td>
 </tr>
 </table>
 
@@ -112,24 +126,6 @@
 | ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00A19C) | ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00A19C) | ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00A19C) |
 
 </div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  COLLAGE STRIP 3 — Triptych staggered  ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Large center tile flanked by two offset verticals              -->
-<table width="100%" bgcolor="#050A0E" border="0" cellspacing="3" cellpadding="0">
-<tr>
-<td align="center" valign="top" width="28%" bgcolor="#050A0E">
-  <img src="Untitled design (4).svg" alt="Design 4" width="98%" />
-</td>
-<td align="center" valign="middle" width="44%" bgcolor="#050A0E">
-  <img src="Untitled design.svg" alt="Design Main" width="98%" />
-</td>
-<td align="center" valign="bottom" width="28%" bgcolor="#050A0E">
-  <img src="Untitled design (5).svg" alt="Design 5" width="98%" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -191,38 +187,38 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=dark&bg_color=0D1117&title_color=00A19C&icon_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=dark&bg_color=0D1B2A&title_color=00A19C&icon_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8&hide_border=false" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=dark&bg_color=0D1117&title_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=dark&bg_color=0D1B2A&title_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=dark&background=0D1117&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&border=00A19C&border_radius=8" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=dark&background=0D1B2A&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&border=00A19C&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER COLLAGE — Dark canvas, 5-tile mosaic  ▓▓▓ -->
-<table width="100%" bgcolor="#050A0E" border="0" cellspacing="3" cellpadding="0">
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC FOOTER COLLAGE — 5-tile irregular mosaic  ▓▓▓▓▓▓ -->
+<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
 <tr>
-<!-- Row 1: three tiles -->
-<td align="center" valign="bottom" width="38%" bgcolor="#050A0E">
-  <img src="Untitled design (1).svg" alt="D1" width="100%" />
+<!-- Row 1: 3 tiles — wide / narrow / wide -->
+<td align="center" valign="bottom" width="42%" bgcolor="#0A0F1E">
+  <img src="Untitled design (2).svg" alt="D2" width="99%" />
 </td>
-<td align="center" valign="top" width="24%" bgcolor="#050A0E">
-  <img src="Untitled design (3).svg" alt="D3" width="100%" />
+<td align="center" valign="middle" width="18%" bgcolor="#0A0F1E">
+  <img src="Untitled design (3).svg" alt="D3" width="95%" />
 </td>
-<td align="center" valign="bottom" width="38%" bgcolor="#050A0E">
-  <img src="Untitled design (2).svg" alt="D2" width="100%" />
+<td align="center" valign="top" width="40%" bgcolor="#0A0F1E">
+  <img src="Untitled design (1).svg" alt="D1" width="99%" />
 </td>
 </tr>
 <tr>
-<!-- Row 2: two tiles + center content -->
-<td align="center" valign="top" width="28%" bgcolor="#050A0E">
-  <img src="Untitled design (5).svg" alt="D5" width="100%" />
+<!-- Row 2: narrow / wide center content / narrow — staggered offset -->
+<td align="center" valign="top" width="26%" bgcolor="#0A0F1E">
+  <img src="Untitled design (4).svg" alt="D4" width="96%" />
 </td>
-<td align="center" valign="middle" width="44%" bgcolor="#050A0E">
+<td align="center" valign="middle" width="48%" bgcolor="#0A0F1E">
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
@@ -235,17 +231,17 @@
 <br>
 
 </td>
-<td align="center" valign="top" width="28%" bgcolor="#050A0E">
-  <img src="Untitled design (4).svg" alt="D4" width="100%" />
+<td align="center" valign="bottom" width="26%" bgcolor="#0A0F1E">
+  <img src="Untitled design (5).svg" alt="D5" width="96%" />
 </td>
 </tr>
 </table>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓  CLOSING STATEMENT  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<table width="100%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="16">
+<table width="100%" bgcolor="#0D1B2A" border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td align="center" bgcolor="#0D1117">
+<td align="center" bgcolor="#0D1B2A">
 
 ### POLE POSITION MINDSET
 
