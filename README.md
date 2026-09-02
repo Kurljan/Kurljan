@@ -1,26 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  KURLJAN — README  ·  Developer · F1 Fan · Philippines        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- KURLJAN - EDITORIAL PROFILE -->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  PROFILE CARD — baked image, GitHub-style UI  ▓▓▓▓▓▓▓▓▓▓▓ -->
-<div align="center">
-  <img src="profile_card.jpg" alt="Kurljan — GitHub Profile · Repository Spotlight" width="100%" />
-</div>
+<!-- 01 HERO - full bleed editorial title card -->
+<img src="ed_hero.jpg" width="100%" alt="Kerl Jan" />
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00A19C)](https://github.com/kurljan)
-[![Bukidnon State University](https://img.shields.io/badge/BUKSU-Student-00A19C?style=for-the-badge&logoColor=white)](https://buksu.edu.ph)
-[![Location](https://img.shields.io/badge/📍_Malaybalay_City-Philippines-111111?style=for-the-badge)](https://maps.google.com/?q=Malaybalay+City,+Philippines)
-
-</div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  QUOTE BLOCK  ▓▓▓▓▓▓▓▓▓▓▓ -->
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
