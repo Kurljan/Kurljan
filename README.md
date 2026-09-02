@@ -1,105 +1,11 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  KURLJAN — README  ·  Developer · F1 Fan · Philippines        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  PROFILE HEADER CARD  ▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓  PROFILE CARD — baked image, GitHub-style UI  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<table width="100%" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#0D1117" align="center" style="padding:0;">
-
-<!-- Top nav bar -->
-<table width="760" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#0D1117" style="padding: 12px 0 0 0;">
-
-[![Overview](https://img.shields.io/badge/📖_Overview-underline-00A19C?style=flat-square&labelColor=0D1117&color=00A19C)](https://github.com/kurljan)&nbsp;&nbsp;
-[![Repositories](https://img.shields.io/badge/📂_Repositories-1-555?style=flat-square&labelColor=161B22&color=30363D)](https://github.com/kurljan?tab=repositories)&nbsp;&nbsp;
-[![Projects](https://img.shields.io/badge/📋_Projects-F1-555?style=flat-square&labelColor=161B22&color=30363D)](https://github.com/kurljan)
-
-</td>
-</tr>
-</table>
-
-<!-- Profile Row -->
-<table width="760" bgcolor="#0D1117" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" bgcolor="#0D1117" style="padding: 16px 0;">
-  <b style="font-size:22px; color:#E6EDF3;">Kurljan</b><br/>
-  <span style="color:#8B949E; font-size:13px;">Game dev · AI researcher · F1 enthusiast.</span><br/>
-  <span style="color:#8B949E; font-size:12px;">kurljan &nbsp;·&nbsp; Malaybalay City, Philippines</span>
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+  <img src="profile_card.jpg" alt="Kurljan — GitHub Profile · Repository Spotlight" width="100%" />
 </div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  REPOSITORY SPOTLIGHT BLOCK  ▓▓▓▓▓▓▓▓▓▓▓ -->
-<div align="center">
-<table width="100%" bgcolor="#161B22" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#161B22" style="padding: 12px 16px 4px 16px;">
-  <b style="color:#E6EDF3; font-size:14px;">⚡ Repository Spotlight</b>&nbsp;&nbsp;
-  <span style="color:#8B949E; font-size:12px;">Curated README.md from files.</span>
-</td>
-</tr>
-<tr>
-<td bgcolor="#161B22" style="padding: 4px 16px 4px 16px;">
-  <table width="100%" bgcolor="#1C2128" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="left">
-      <b style="color:#E6EDF3; font-size:12px;">☰ README.md</b>
-    </td>
-    <td align="right">
-      <span style="color:#8B949E; font-size:12px;">✎</span>
-    </td>
-  </tr>
-  </table>
-</td>
-</tr>
-
-<!-- README PREVIEW — HERO BANNER -->
-<tr>
-<td bgcolor="#0A0F1E" align="center" style="padding: 0;">
-  <img src="banner_hero.jpg" alt="THE KURLJAN — Hero Banner" width="100%" />
-</td>
-</tr>
-
-<!-- README PREVIEW — COLLAGE ROW -->
-<tr>
-<td bgcolor="#0A0F1E" style="padding: 4px 4px 0 4px;">
-<table width="100%" border="0" cellspacing="4" cellpadding="0">
-<tr>
-<td align="center" valign="top" width="42%" bgcolor="#0A0F1E">
-  <img src="banner_explorer.jpg" alt="Project Explorer" width="99%" />
-</td>
-<td align="center" valign="top" width="58%" bgcolor="#0A0F1E">
-  <img src="banner_spotlight.jpg" alt="README Spotlight" width="99%" />
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<!-- STATS FOOTER BAR -->
-<tr>
-<td bgcolor="#161B22" style="padding: 10px 16px 4px 16px;">
-
-[![Stars](https://img.shields.io/badge/☆_Stars-2.1k-30363D?style=flat-square&labelColor=30363D)](https://github.com/kurljan)&nbsp;
-[![Forks](https://img.shields.io/badge/⑂_Forks-340-30363D?style=flat-square&labelColor=30363D)](https://github.com/kurljan)
-
-</td>
-</tr>
-
-</table>
-</div>
-
----
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
@@ -208,7 +114,7 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓▓  PROJECTS PIT STOP  ▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🏎️ PROJECTS PIT STOP
 
-<br/>
+<br>
 
 ### 🥇 &nbsp; NetGame
 **A Netacad-style learning game designed for people with ADHD**
@@ -293,16 +199,16 @@
   <img src="Untitled design (4).svg" alt="D4" width="96%" />
 </td>
 <td align="center" valign="middle" width="48%" bgcolor="#0A0F1E">
-<br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=00A19C)](https://github.com/kurljan)
 
-<br/>
+<br>
 
 <img src="9a45df4d-9ed1-4726-9521-d25ca77e5c78.jpg" alt="Footer" width="90%" />
 
-<br/>
+<br>
 
 </td>
 <td align="center" valign="bottom" width="26%" bgcolor="#0A0F1E">
@@ -331,3 +237,4 @@
 </tr>
 </table>
 </div>
+
