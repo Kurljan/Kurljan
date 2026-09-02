@@ -1,213 +1,158 @@
-<!-- KURLJAN - EDITORIAL PROFILE -->
+<!-- KURLJAN - GITHUB PROFILE README -->
 
-<!-- 01 HERO - full bleed editorial title card -->
-<img src="ed_hero.jpg" width="100%" alt="Kerl Jan" />
-
-<!-- SOCIAL BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
+<!-- TYPING SVG HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00A19C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kerl+Jan;Game+Dev+%7C+AI+Explorer+%7C+Builder;Final-Year+CS+Student+%40+BukSU;Fast+in+Dev%2C+Clean+in+Repo)](https://git.io/typing-svg)
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  "I mean it's ridiculous. The guys can just cut the grass        ║
-║   and keep position. No penalty, no nothing."                    ║
-║                                              — Russell Radio     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-*Me when someone ships code without testing it.*
+**`Student Developer · Malaybalay City, Philippines · Bukidnon State University`**
+
+<br/>
+
+> *Building games, simulations, and pushing AI to its limits — one commit at a time.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurljan)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerljan@gmail.com)
+
+---
+
+</div>
+
+<!-- ══════════════════  ABOUT ME  ══════════════════ -->
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+## 🚀 About Me
+
+**Hey, I'm Kerl Jan** — a Computer Engineering student at **Bukidnon State University**, obsessed with building things that actually matter.
+
+I enjoy creating **games, simulations, and AI-powered systems** that push what's technically possible.
+
+Currently learning:
+- 🎮 **Game Development** with Unity / Python
+- 🤖 **Machine Learning & AI** experimentation
+- 🩺 **Medical Simulation** systems
+- 🧠 **Data Structures & Algorithms**
+
+My goal is simple: write clean code, build systems people remember, and grow into an engineer who ships things that last.
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════════  WHO AM I  ══════════════════ -->
+
+<div align="center">
+
+## 🏎️ Quick Stats
+
+<table>
+<tr><td>🏫 &nbsp; <b>University</b></td><td>Bukidnon State University</td></tr>
+<tr><td>🌍 &nbsp; <b>Location</b></td><td>Malaybalay City, Philippines</td></tr>
+<tr><td>🛠️ &nbsp; <b>Stack</b></td><td>Python · Java · C++ · Web Technologies</td></tr>
+<tr><td>🎯 &nbsp; <b>Focus</b></td><td>Game Dev · AI/ML · Simulation Systems</td></tr>
+<tr><td>🧠 &nbsp; <b>Driven by</b></td><td>Curiosity, caffeine, and deadlines</td></tr>
+<tr><td>🏁 &nbsp; <b>Status</b></td><td>Full throttle ⚡</td></tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC COLLAGE ROW 1  ▓▓▓▓▓▓▓▓ -->
-<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
-<tr>
-<td align="center" valign="middle" width="62%" bgcolor="#0A0F1E" rowspan="2">
-  <img src="Untitled design.svg" alt="Design Main" width="99%" />
-</td>
-<td align="center" valign="bottom" width="38%" bgcolor="#0A0F1E">
-  <img src="Untitled design (1).svg" alt="Design 1" width="98%" />
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="38%" bgcolor="#0A0F1E">
-  <img src="Untitled design (2).svg" alt="Design 2" width="90%" />
-</td>
-</tr>
-</table>
+<!-- ══════════════════  TECH STACK  ══════════════════ -->
 
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  QUALIFYING LAP  ▓▓▓▓▓▓▓▓▓▓▓ -->
-## 🚦 QUALIFYING LAP — Who Am I?
-
-> A developer from **Malaybalay City, Philippines**, studying at **Bukidnon State University**. I build games, simulations, and push AI to its limits. Currently in the early laps — learning fast, iterating faster.
-
-<div align="center">
-<table width="80%" bgcolor="#0D1B2A" border="0" cellspacing="0" cellpadding="8">
-<tr><td bgcolor="#0D1B2A">
-
-| | |
-|:---|:---|
-| 🏎️ &nbsp; **Team** | Bukidnon State University |
-| 🌍 &nbsp; **Base** | Malaybalay City, Philippines |
-| 🛠️ &nbsp; **Stack** | Python · Java · C++ · Web Technologies |
-| 🎯 &nbsp; **Focus** | Game Dev · AI/ML · Simulation Systems |
-| 🧠 &nbsp; **Driven by** | Curiosity, caffeine, and deadlines |
-| 🏁 &nbsp; **Status** | Full throttle |
-
-</td></tr>
-</table>
-</div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC ROW 2  ▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
-<tr>
-<td align="center" valign="top" width="22%" bgcolor="#0A0F1E">
-  <img src="Untitled design (4).svg" alt="Design 4" width="97%" />
-</td>
-<td align="center" valign="middle" width="52%" bgcolor="#0A0F1E" style="padding-top:24px;">
-  <img src="Untitled design (3).svg" alt="Design Accent" width="99%" />
-</td>
-<td align="center" valign="bottom" width="26%" bgcolor="#0A0F1E">
-  <img src="Untitled design (5).svg" alt="Design 5" width="96%" />
-</td>
-</tr>
-</table>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓▓ -->
-## 🛠️ THE MACHINE — Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **LANGUAGES** | **FRONTEND** | **BACKEND & TOOLS** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00A19C) | ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=00A19C) | ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00A19C) |
-| ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=00A19C) | ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=00A19C) | ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00A19C) |
-| ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00A19C) | ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00A19C) | ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00A19C) |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  PROJECTS PIT STOP  ▓▓▓▓▓▓▓▓▓▓▓ -->
-## 🏎️ PROJECTS PIT STOP
+<!-- ══════════════════  PROJECTS  ══════════════════ -->
 
-<br>
-
-### 🥇 &nbsp; NetGame
-**A Netacad-style learning game designed for people with ADHD**
-
-<img src="img_netgame.jpg" alt="NetGame Banner" width="100%" />
-
-> Built accessibility-first. NetGame gamifies learning concepts from Cisco Networking Academy (Netacad) with a pacing and engagement model tailored for players with ADHD — short bursts, clear feedback, rewarding loops.
-
-[![Status](https://img.shields.io/badge/STATUS-In_Development-00A19C?style=for-the-badge)]()
-[![Type](https://img.shields.io/badge/TYPE-Educational_Game-111111?style=for-the-badge)]()
-
----
-
-### 🥈 &nbsp; Project-X
-**PAD Simulation System**
-
-<img src="img_projectx.jpg" alt="Project-X Banner" width="100%" />
-
-> A simulation system for **Peripheral Artery Disease (PAD)**. Visualizes blood flow data, arterial blockages, and severity mapping — bridging clinical data and interactive simulation for educational and diagnostic purposes.
-
-[![Status](https://img.shields.io/badge/STATUS-Active-00A19C?style=for-the-badge)]()
-[![Type](https://img.shields.io/badge/TYPE-Medical_Simulation-111111?style=for-the-badge)]()
-
----
-
-### 🥉 &nbsp; Project-cY
-**Testing the Boundaries of AI**
-
-<img src="img_projectcy.jpg" alt="Project-cY Banner" width="100%" />
-
-> An experimental project pushing what AI can and cannot do. Stress-testing model capabilities, exploring edge cases, and documenting where intelligence — artificial or otherwise — breaks down.
-
-[![Status](https://img.shields.io/badge/STATUS-Experimental-00A19C?style=for-the-badge)]()
-[![Type](https://img.shields.io/badge/TYPE-AI_Research-111111?style=for-the-badge)]()
-
----
-
-### 🎮 &nbsp; Escape
-**A Horror Game built for OOP & DSA**
-
-<img src="img_escape.jpg" alt="Escape Banner" width="100%" />
-
-> A horror escape game created as a project for **Object-Oriented Programming** and **Data Structures & Algorithms** subjects. Navigate terrifying environments while the game engine underneath runs on clean OOP architecture and DSA-powered logic.
-
-[![Status](https://img.shields.io/badge/STATUS-Completed-00A19C?style=for-the-badge)]()
-[![Type](https://img.shields.io/badge/TYPE-Horror_Game-111111?style=for-the-badge)]()
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  TELEMETRY  ▓▓▓▓▓▓▓▓▓▓▓ -->
-## 📊 TELEMETRY — GitHub Stats
+## 🏎️ Projects
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=dark&bg_color=0D1B2A&title_color=00A19C&icon_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8&hide_border=false" />
+| 🥇 Project | 💡 Description | 🏷️ Status |
+|:---|:---|:---:|
+| **NetGame** | Netacad-style learning game for people with ADHD — gamified networking concepts | ![In Dev](https://img.shields.io/badge/In_Development-00A19C?style=flat-square) |
+| **Project-X** | PAD Simulation System — visualizes blood flow & arterial blockages | ![Active](https://img.shields.io/badge/Active-00C853?style=flat-square) |
+| **Project-cY** | AI stress-testing experiments — pushing models to their edge | ![Experimental](https://img.shields.io/badge/Experimental-FF6F00?style=flat-square) |
+| **Escape** | Horror escape game built on OOP & DSA principles | ![Completed](https://img.shields.io/badge/Completed-6200EA?style=flat-square) |
+
+</div>
+
+---
+
+<!-- ══════════════════  GITHUB STATS  ══════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00A19C&icon_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&count_private=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=dark&bg_color=0D1B2A&title_color=00A19C&text_color=FFFFFF&border_color=00A19C&border_radius=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=dark&background=0D1B2A&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&border=00A19C&border_radius=8" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=tokyonight-duo&background=0D1117&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&sideLabels=00A19C&border=00A19C&border_radius=10" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MOSAIC FOOTER COLLAGE  ▓▓▓▓▓▓ -->
-<table width="100%" bgcolor="#0A0F1E" border="0" cellspacing="4" cellpadding="0">
-<tr>
-<td align="center" valign="bottom" width="42%" bgcolor="#0A0F1E">
-  <img src="Untitled design (2).svg" alt="D2" width="99%" />
-</td>
-<td align="center" valign="middle" width="18%" bgcolor="#0A0F1E">
-  <img src="Untitled design (3).svg" alt="D3" width="95%" />
-</td>
-<td align="center" valign="top" width="40%" bgcolor="#0A0F1E">
-  <img src="Untitled design (1).svg" alt="D1" width="99%" />
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="26%" bgcolor="#0A0F1E">
-  <img src="Untitled design (4).svg" alt="D4" width="96%" />
-</td>
-<td align="center" valign="middle" width="48%" bgcolor="#0A0F1E">
-<br>
+<!-- ══════════════════  ACTIVITY GRAPH  ══════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00A19C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=00A19C)](https://github.com/kurljan)
+## 📈 Activity Graph
 
-<br>
-
-<img src="9a45df4d-9ed1-4726-9521-d25ca77e5c78.jpg" alt="Footer" width="90%" />
-
-<br>
-
-</td>
-<td align="center" valign="bottom" width="26%" bgcolor="#0A0F1E">
-  <img src="Untitled design (5).svg" alt="D5" width="96%" />
-</td>
-</tr>
-</table>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  CLOSING STATEMENT  ▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<table width="100%" bgcolor="#0D1B2A" border="0" cellspacing="0" cellpadding="16">
-<tr>
-<td align="center" bgcolor="#0D1B2A">
+
+[![Kerl Jan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurljan&theme=tokyo-night&bg_color=0D1117&color=00A19C&line=00A19C&point=FFFFFF&area=true&hide_border=false)](https://github.com/kurljan)
+
+</div>
+
+---
+
+<!-- ══════════════════  TROPHIES  ══════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kurljan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7)](https://github.com/kurljan)
+
+</div>
+
+---
+
+<!-- ══════════════════  FOOTER  ══════════════════ -->
+
+<div align="center">
 
 ### POLE POSITION MINDSET
 
@@ -217,10 +162,9 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=kurljan&color=00A19C&style=for-the-badge&label=PROFILE+VIEWS)
+
 *Kerl Jan · Malaybalay City, Philippines · Bukidnon State University*
 
-</td>
-</tr>
-</table>
 </div>
 
