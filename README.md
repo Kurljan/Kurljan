@@ -1,4 +1,4 @@
-<!-- KURLJAN - GITHUB PROFILE README -->
+﻿<!-- KURLJAN - GITHUB PROFILE README -->
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-**Hey, I'm Kerl Jan** — a Computer Engineering student at **Bukidnon State University**, obsessed with building things that actually matter.
+**Hey, I'm Kerl Jan** — a BSIT student at **Bukidnon State University**, obsessed with building things that actually matter.
 
 I enjoy creating **games, simulations, and AI-powered systems** that push what's technically possible.
 
@@ -39,7 +39,7 @@ Currently learning:
 - 🩺 **Medical Simulation** systems
 - 🧠 **Data Structures & Algorithms**
 
-My goal is simple: write clean code, build systems people remember, and grow into an engineer who ships things that last.
+My goal is simple: write clean code, build systems people remember, and grow into someone who ships things that last.
 
 <br clear="right"/>
 
