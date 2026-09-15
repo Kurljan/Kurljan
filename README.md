@@ -163,7 +163,11 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 <div align="center">
 
-[![Kerl Jan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurljan&theme=tokyo-night&bg_color=0D1117&color=00A19C&line=00A19C&point=FFFFFF&area=true&hide_border=false)](https://github.com/kurljan)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurljan&theme=tokyonight" width="100%" alt="Kerl Jan's activity graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurljan&theme=tokyonight&utcOffset=8" height="170" alt="Productive Hours" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kurljan&theme=tokyonight" height="170" alt="Most Used Languages by Commit" />
 
 </div>
 
