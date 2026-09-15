@@ -185,13 +185,36 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 ---
 
-<!-- ══════════════════  TROPHIES  ══════════════════ -->
+<!-- ══════════════════  MILESTONES  ══════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🎯 Milestones & Roadmap
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kurljan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
+**✅ Achieved**
+
+![First Commit](https://img.shields.io/badge/🚀_First_Commit-Unlocked-00A19C?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🌐_Open_Source_Contributor-Unlocked-00A19C?style=for-the-badge)
+![50+ Contributions](https://img.shields.io/badge/📈_50+_Contributions-Unlocked-00A19C?style=for-the-badge)
+![Game Dev](https://img.shields.io/badge/🎮_Game_Developer-Unlocked-00A19C?style=for-the-badge)
+![AI Explorer](https://img.shields.io/badge/🤖_AI_Explorer-Unlocked-00A19C?style=for-the-badge)
+
+<br/>
+
+**🔥 In Progress**
+
+![100 Commits](https://img.shields.io/badge/💯_100_Commits-In_Progress-FF6F00?style=for-the-badge)
+![Medical Sim](https://img.shields.io/badge/🩺_Medical_Simulation-In_Progress-FF6F00?style=for-the-badge)
+![NetGame Launch](https://img.shields.io/badge/🎓_NetGame_Launch-In_Progress-FF6F00?style=for-the-badge)
+
+<br/>
+
+**🚀 Coming Next**
+
+![500 Contributions](https://img.shields.io/badge/📊_500_Contributions-Locked-555555?style=for-the-badge)
+![First Star](https://img.shields.io/badge/⭐_First_Repo_Star-Locked-555555?style=for-the-badge)
+![Open Source PR](https://img.shields.io/badge/🔀_Open_Source_PR-Locked-555555?style=for-the-badge)
+![Deployed App](https://img.shields.io/badge/🌍_First_Deployed_App-Locked-555555?style=for-the-badge)
 
 </div>
 
