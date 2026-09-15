@@ -187,34 +187,36 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 <!-- ══════════════════  MILESTONES  ══════════════════ -->
 
-## 🎯 Milestones & Roadmap
+## 🏁 Achievement Board
 
 <div align="center">
 
-**✅ Achieved**
-
-![First Commit](https://img.shields.io/badge/🚀_First_Commit-Unlocked-00A19C?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/🌐_Open_Source_Contributor-Unlocked-00A19C?style=for-the-badge)
-![50+ Contributions](https://img.shields.io/badge/📈_50+_Contributions-Unlocked-00A19C?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/🎮_Game_Developer-Unlocked-00A19C?style=for-the-badge)
-![AI Explorer](https://img.shields.io/badge/🤖_AI_Explorer-Unlocked-00A19C?style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp; *Every great journey starts somewhere. Here's mine.* &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 
 <br/>
 
-**🔥 In Progress**
-
-![100 Commits](https://img.shields.io/badge/💯_100_Commits-In_Progress-FF6F00?style=for-the-badge)
-![Medical Sim](https://img.shields.io/badge/🩺_Medical_Simulation-In_Progress-FF6F00?style=for-the-badge)
-![NetGame Launch](https://img.shields.io/badge/🎓_NetGame_Launch-In_Progress-FF6F00?style=for-the-badge)
+| Status | Achievement | Category | XP |
+|:---:|:---|:---:|:---:|
+| ✅ | **First Commit** — Showed up and started | 🚀 Origin | `+10 XP` |
+| ✅ | **First Repository Star** — Barangay Health System | ⭐ Recognition | `+50 XP` |
+| ✅ | **Built a Game** — *Escape* Horror OOP Game | 🎮 Game Dev | `+100 XP` |
+| ✅ | **Collab Project** — DevHealth System Integration | 🤝 Teamwork | `+75 XP` |
+| ✅ | **Portfolio Website** — Personal web presence live | 🌍 Deployment | `+60 XP` |
+| ✅ | **50+ Contributions** — Consistency is a skill | 📈 Grind | `+80 XP` |
+| ✅ | **AI Experimenter** — Stress-testing models (Project-cY) | 🤖 AI/ML | `+90 XP` |
+| 🔥 | **NetGame Launch** — ADHD-friendly networking game | 🎓 Ed-Tech | `+200 XP` |
+| 🔥 | **PAD Simulation Live** — Medical visualization system | 🩺 Simulation | `+150 XP` |
+| 🔥 | **100 Commits** — Building the habit | 💯 Grind | `+100 XP` |
+| 🔒 | **First External PR** — Contribute to open source | 🔀 OSS | `+120 XP` |
+| 🔒 | **500 Contributions** — Serious commitment | 📊 Grind | `+250 XP` |
+| 🔒 | **Machine Learning Model Deployed** — From code to cloud | 🧠 AI/ML | `+300 XP` |
+| 🔒 | **1,000 Contributions** — Legend status | 🏆 Elite | `+500 XP` |
 
 <br/>
 
-**🚀 Coming Next**
-
-![500 Contributions](https://img.shields.io/badge/📊_500_Contributions-Locked-555555?style=for-the-badge)
-![First Star](https://img.shields.io/badge/⭐_First_Repo_Star-Locked-555555?style=for-the-badge)
-![Open Source PR](https://img.shields.io/badge/🔀_Open_Source_PR-Locked-555555?style=for-the-badge)
-![Deployed App](https://img.shields.io/badge/🌍_First_Deployed_App-Locked-555555?style=for-the-badge)
+![XP Earned](https://img.shields.io/badge/⚡_XP_Earned-515_XP-00A19C?style=for-the-badge)
+![Quests Active](https://img.shields.io/badge/🔥_Active_Quests-3-FF6F00?style=for-the-badge)
+![Quests Locked](https://img.shields.io/badge/🔒_Locked-4-555555?style=for-the-badge)
 
 </div>
 
