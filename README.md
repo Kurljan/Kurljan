@@ -145,13 +145,13 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00A19C&icon_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00A19C&icon_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&count_private=true&cache_seconds=1800" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kurljan&theme=tokyonight-duo&background=0D1117&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&sideLabels=00A19C&border=00A19C&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kurljan&theme=tokyonight-duo&background=0D1117&ring=00A19C&fire=00A19C&currStreakLabel=00A19C&sideLabels=00A19C&border=00A19C&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
