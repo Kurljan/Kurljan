@@ -1,9 +1,14 @@
-﻿<!-- KURLJAN - GITHUB PROFILE README -->
+<!-- KURLJAN - GITHUB PROFILE README -->
 
 <div align="center">
 
+<!-- ANIMATED HELLO BANNER -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello" />
+
+<br/>
+
 <!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00A19C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kerl+Jan;Game+Dev+%7C+AI+Explorer+%7C+Builder;Final-Year+BSIT+Student+%40+BukSU;Fast+in+Dev%2C+Clean+in+Repo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00A19C&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Kerl+Jan;Game+Dev+%7C+AI+Explorer+%7C+Builder;Final-Year+BSIT+Student+%40+BukSU;Fast+in+Dev%2C+Clean+in+Repo)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,6 +20,19 @@
 
 <br/>
 
+<!-- ANIMATED SOCIAL MEDIA ICONS -->
+<a href="https://linkedin.com/in/kerljan">
+  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="55" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/kurljan">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="55" alt="GitHub" />
+</a>&nbsp;&nbsp;
+<a href="mailto:kerljan@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="55" alt="Gmail" />
+</a>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerljan)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurljan)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerljan@gmail.com)
@@ -25,7 +43,7 @@
 
 <!-- ══════════════════  ABOUT ME  ══════════════════ -->
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif" />
 
 ## 🚀 About Me
 
@@ -69,6 +87,19 @@ My goal is simple: write clean code, build systems people remember, and grow int
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<!-- ANIMATED MOVING TECH LOGOS -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="Python">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="Java">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" title="C++">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="JavaScript">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60" title="HTML5">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" title="CSS3">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" title="Git">&nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60" title="Unity">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" title="Linux">
+
+<br/><br/>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -138,6 +169,18 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 ---
 
+<!-- ══════════════════  THE GRIND  ══════════════════ -->
+
+## 💻 The Grind
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="coding work gif" />
+
+</div>
+
+---
+
 <!-- ══════════════════  TROPHIES  ══════════════════ -->
 
 ## 🏆 GitHub Trophies
@@ -161,6 +204,10 @@ My goal is simple: write clean code, build systems people remember, and grow int
 *Built for speed. Driven by detail.*
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1a80.gif" width="180" alt="cute working sticker" />
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kurljan&color=00A19C&style=for-the-badge&label=PROFILE+VIEWS)
 
