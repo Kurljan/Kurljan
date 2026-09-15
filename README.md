@@ -145,9 +145,9 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kurljan&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00A19C&icon_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&count_private=true&cache_seconds=1800" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurljan&theme=tokyonight" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurljan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00A19C&text_color=C9D1D9&border_color=00A19C&border_radius=10&hide_border=false&cache_seconds=1800" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurljan&theme=tokyonight" />
 
 <br/><br/>
 
