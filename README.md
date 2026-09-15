@@ -191,7 +191,7 @@ My goal is simple: write clean code, build systems people remember, and grow int
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kurljan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7)](https://github.com/kurljan)
+<img src="https://github-profile-trophy.vercel.app/?username=kurljan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
 
 </div>
 
